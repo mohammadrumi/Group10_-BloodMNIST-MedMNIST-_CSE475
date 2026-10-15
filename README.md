@@ -1,1 +1,1 @@
-# Group10_-BloodMNIST-MedMNIST-_CSE475
+# Group10_BloodMNIST_CSE475
